@@ -45,7 +45,7 @@ car-price-prediction-using-machine-learning/
 ---
 
 ## ⚙️ Tech Stack  
-- **Languages**: Python  
+- **Languages**: Python  , HTML, CSS 
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Flask  
 - **Tools**: Jupyter Notebook, GitHub  
 
