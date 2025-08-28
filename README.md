@@ -26,7 +26,7 @@ car-price-prediction-using-machine-learning/
 
 │ │ └── index.html # Web UI
 
-│ └── static/ # CSS, JS (if any)
+│ └── static/ # CSS, JS 
 
 │
 
@@ -39,7 +39,7 @@ car-price-prediction-using-machine-learning/
 ---
 
 ## 📊 Dataset  
-- **Source**: Kaggle Car Dataset *(or mention actual source)*  
+- **Source**: Kaggle Car Dataset 
 - **Features**: Car Name, Year, Present Price, Kms Driven, Fuel Type, Seller Type, Transmission, Owner  
 
 ---
